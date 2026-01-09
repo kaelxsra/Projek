@@ -56,3 +56,5 @@ Repository ini dibuat untuk keperluan tugas sekolah dan dapat dikembangkan lebih
 **Dibuat oleh**  
 Nama  : Mikael Putra Permana  
 Kelas : XI-RPL
+
+![ERD Peminjaman Barang](images/Untitleds.png)
