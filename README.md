@@ -17,7 +17,7 @@ Sistem ini digunakan untuk mencatat proses peminjaman, pengembalian, dan persetu
 
 ## 🗄️ Database Diagram (ERD)
 
-![ERD Peminjaman Barang](images/erd-peminjaman-barang.svg)
+![ERD Peminjaman Barang](image/Untitled.png)
 
 > Diagram dibuat menggunakan **dbdiagram.io**
 
@@ -56,5 +56,3 @@ Repository ini dibuat untuk keperluan tugas sekolah dan dapat dikembangkan lebih
 **Dibuat oleh**  
 Nama  : Mikael Putra Permana  
 Kelas : XI-RPL
-
-![ERD Peminjaman Barang](images/Untitled.png)
